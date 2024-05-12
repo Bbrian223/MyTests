@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\bbarrera\documents\github\programacion-ii\testproyectofinlalaboii\main.cpp
+	<iostream>
+
+1715305691 source:c:\users\bbarrera\documents\github\programacion-ii\testproyectofinlalaboii\articulo.cpp
+	"articulo.h"
+
+1715305681 c:\users\bbarrera\documents\github\programacion-ii\testproyectofinlalaboii\articulo.h
+	<cstring>
+	<iostream>
+
+1715306576 source:c:\users\bbarrera\documents\github\programacion-ii\testproyectofinlalaboii\bebidas.cpp
+	"bebidas.h"
+	<cstring>
+
+1715306561 c:\users\bbarrera\documents\github\programacion-ii\testproyectofinlalaboii\bebidas.h
+	<iostream>
+
+1715306567 source:c:\users\bbarrera\documents\github\programacion-ii\testproyectofinlalaboii\comida.cpp
+	"comida.h"
+
+1715306521 c:\users\bbarrera\documents\github\programacion-ii\testproyectofinlalaboii\comida.h
+
