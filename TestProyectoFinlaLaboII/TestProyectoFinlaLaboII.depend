@@ -21,3 +21,72 @@
 
 1715306521 c:\users\bbarrera\documents\github\programacion-ii\testproyectofinlalaboii\comida.h
 
+1715305691 source:c:\users\bbarrera\documents\github\mytests\testproyectofinlalaboii\articulo.cpp
+	"articulo.h"
+
+1715305681 c:\users\bbarrera\documents\github\mytests\testproyectofinlalaboii\articulo.h
+	<cstring>
+	<iostream>
+
+1715306576 source:c:\users\bbarrera\documents\github\mytests\testproyectofinlalaboii\bebidas.cpp
+	"bebidas.h"
+	<cstring>
+
+1715306561 c:\users\bbarrera\documents\github\mytests\testproyectofinlalaboii\bebidas.h
+	<iostream>
+
+1715307373 source:c:\users\bbarrera\documents\github\mytests\testproyectofinlalaboii\comida.cpp
+	"comida.h"
+	<cstring>
+
+1715307024 c:\users\bbarrera\documents\github\mytests\testproyectofinlalaboii\comida.h
+	<iostream>
+
+1715630167 source:c:\users\bbarrera\documents\github\mytests\testproyectofinlalaboii\main.cpp
+	<iostream>
+	"appManager.h"
+
+1715618095 source:c:\users\bbarrera\documents\github\mytests\testproyectofinlalaboii\archivo.cpp
+	"archivo.h"
+	<cstring>
+
+1715618087 c:\users\bbarrera\documents\github\mytests\testproyectofinlalaboii\archivo.h
+	<iostream>
+
+1715616555 source:c:\users\bbarrera\documents\github\mytests\testproyectofinlalaboii\archivoarticulo.cpp
+	"archivoArticulo.h"
+
+1715616401 c:\users\bbarrera\documents\github\mytests\testproyectofinlalaboii\archivoarticulo.h
+	"archivo.h"
+	"articulo.h"
+
+1715735190 c:\users\bbarrera\documents\github\mytests\testproyectofinlalaboii\appmanager.h
+	<iostream>
+
+1715823720 source:c:\users\bbarrera\documents\github\mytests\testproyectofinlalaboii\appmanager.cpp
+	"appManager.h"
+	<cstring>
+	"item.h"
+
+1715717238 c:\users\bbarrera\documents\github\mytests\testproyectofinlalaboii\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1715822423 c:\users\bbarrera\documents\github\mytests\testproyectofinlalaboii\item.h
+	"rlutil.h"
+	<windows.h>
+	<iostream>
+
+1715823641 source:c:\users\bbarrera\documents\github\mytests\testproyectofinlalaboii\item.cpp
+	"item.h"
+
