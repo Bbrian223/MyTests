@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1716676980 source:c:\users\bbarrera\documents\github\mytests\test2proyectofinallaboii\appmanager.cpp
+	"appManager.h"
+	<cstring>
+	"item.h"
+
+1716578833 c:\users\bbarrera\documents\github\mytests\test2proyectofinallaboii\appmanager.h
+	<iostream>
+
+1716676754 c:\users\bbarrera\documents\github\mytests\test2proyectofinallaboii\item.h
+	"rlutil.h"
+	<windows.h>
+	<iostream>
+
+1715717238 c:\users\bbarrera\documents\github\mytests\test2proyectofinallaboii\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1715305691 source:c:\users\bbarrera\documents\github\mytests\test2proyectofinallaboii\articulo.cpp
+	"articulo.h"
+
+1715305681 c:\users\bbarrera\documents\github\mytests\test2proyectofinallaboii\articulo.h
+	<cstring>
+	<iostream>
+
+1715306576 source:c:\users\bbarrera\documents\github\mytests\test2proyectofinallaboii\bebidas.cpp
+	"bebidas.h"
+	<cstring>
+
+1715306561 c:\users\bbarrera\documents\github\mytests\test2proyectofinallaboii\bebidas.h
+	<iostream>
+
+1715307373 source:c:\users\bbarrera\documents\github\mytests\test2proyectofinallaboii\comida.cpp
+	"comida.h"
+	<cstring>
+
+1715307024 c:\users\bbarrera\documents\github\mytests\test2proyectofinallaboii\comida.h
+	<iostream>
+
+1716676754 source:c:\users\bbarrera\documents\github\mytests\test2proyectofinallaboii\item.cpp
+	"item.h"
+	<cstring>
+
+1716430385 source:c:\users\bbarrera\documents\github\mytests\test2proyectofinallaboii\main.cpp
+	<iostream>
+	"appManager.h"
+

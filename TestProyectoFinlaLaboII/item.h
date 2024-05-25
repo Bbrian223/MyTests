@@ -3,13 +3,6 @@
 #include <windows.h>
 #include <iostream>
 
-enum {
-    off = 0,
-    on = 1,
-    horizontal = 2,
-    vertical = 3
-};
-
 class Item{
 private:
     rlutil::COLOR _backgroud;
@@ -23,8 +16,10 @@ public:
     void setColorText(rlutil::COLOR cText);
 
     void mostrarItem(std::string text, int x, int y);
+    void mostrarItem(std::string text, int x, int y, bool select);
     std::string ingresarTexto(int x, int y, bool cursorOn);
-    void eliminarHorizontal(int x_init, int x_fin, int y);
+    void eliminarHorizontal(int x, int largo, int y);
     void barraEspera(int time);
     void dibujarRectangulo(int init_x, int init_y, int largo, int ancho);
+    void borrarRectangulo(int x, int y, int alto, int ancho);
 };

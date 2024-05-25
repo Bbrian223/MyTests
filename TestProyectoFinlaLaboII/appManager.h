@@ -4,8 +4,9 @@
 class User{
 
 private:
-    std::string MasterUser = "brian";
-    std::string MasterPass = "brian";
+    /// provicional a modo prueba
+    std::string MasterUser = "admin";
+    std::string MasterPass = "admin";
 
     std::string userNormal = "user";
     std::string passNormal = "pass";
@@ -24,8 +25,9 @@ class AppManager:public User{
 public:
 
     void login();
-    void Menu();
-    void MenuConfig();
+    void MenuAdmin();
+    void MenuUser();
+    void Config();
 
 };
 

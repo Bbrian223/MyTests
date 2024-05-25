@@ -42,9 +42,10 @@
 1715307024 c:\users\bbarrera\documents\github\mytests\testproyectofinlalaboii\comida.h
 	<iostream>
 
-1715630167 source:c:\users\bbarrera\documents\github\mytests\testproyectofinlalaboii\main.cpp
+1716093453 source:c:\users\bbarrera\documents\github\mytests\testproyectofinlalaboii\main.cpp
 	<iostream>
 	"appManager.h"
+	"windows.h"
 
 1715618095 source:c:\users\bbarrera\documents\github\mytests\testproyectofinlalaboii\archivo.cpp
 	"archivo.h"
@@ -60,10 +61,10 @@
 	"archivo.h"
 	"articulo.h"
 
-1715735190 c:\users\bbarrera\documents\github\mytests\testproyectofinlalaboii\appmanager.h
+1716308604 c:\users\bbarrera\documents\github\mytests\testproyectofinlalaboii\appmanager.h
 	<iostream>
 
-1715823720 source:c:\users\bbarrera\documents\github\mytests\testproyectofinlalaboii\appmanager.cpp
+1716308598 source:c:\users\bbarrera\documents\github\mytests\testproyectofinlalaboii\appmanager.cpp
 	"appManager.h"
 	<cstring>
 	"item.h"
@@ -82,11 +83,11 @@
 	<sys/types.h>
 	<sys/time.h>
 
-1715822423 c:\users\bbarrera\documents\github\mytests\testproyectofinlalaboii\item.h
+1716245578 c:\users\bbarrera\documents\github\mytests\testproyectofinlalaboii\item.h
 	"rlutil.h"
 	<windows.h>
 	<iostream>
 
-1715823641 source:c:\users\bbarrera\documents\github\mytests\testproyectofinlalaboii\item.cpp
+1716492309 source:c:\users\bbarrera\documents\github\mytests\testproyectofinlalaboii\item.cpp
 	"item.h"
 
